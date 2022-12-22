@@ -57,4 +57,4 @@ public class BonusServiceTest {
 
 **Шаг 7.** Убедитесь, что тесты запускаются и проходят.
 
-[Решение](https://github.com/ripodgor/Java_QA46_5)
+[Решение](https://github.com/ripodgor/Java_QA46_5/blob/27e46d7e1637faaae5cd43bb529607e4eaa93147/src/test/java/BonusServiceTest.java)
